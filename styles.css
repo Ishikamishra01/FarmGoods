@@ -5,7 +5,7 @@
 }
 .navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color:#1e4203;
     color:white;
     display:flex;
     align-items:center ;
@@ -19,10 +19,10 @@
     width:100px;
 }
 .logo{
-    background-image:url(logo\ image.png);
-    background-size:cover;
+    margin-top: 14px;;
     height:50px;
     width:100%;
+    font-size: 24px;
 }
 .border{
     border:2px solid transparent;
@@ -74,7 +74,7 @@
     justify-content: center;
     align-items: center;
     font-size:1.2rem;
-    background-color: #febd68;
+    background-color: #0d6717;
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
     color:#0f1111;
@@ -103,7 +103,7 @@ span{
 .panel{
     display: flex;
     height:40px;
-    background-color:#222f3d;
+    background-color:#b2c51e;
     color:white;
     align-items:center;
     justify-content:space-evenly;
@@ -125,8 +125,8 @@ span{
     font-weight:700;
 }
 .hero-section{
-    background-image :url("hero.png");
-    height:300px;
+    background-image :url("hero1.png");
+    height:500px;
     display:flex;
     background-size:cover;
     justify-content:center;
@@ -153,17 +153,17 @@ span{
     margin-top:15px;
     height:330px;
     width:300px;
-    background-color:white;
+    background-color:rgb(46, 47, 22);
     /*border:2px solid black;*/
     padding:20px 0px 15px;
-    color:#0ca6c1;
+    color:white;
 }
 .shop-section{
     
     display:flex;
     flex-wrap:wrap;
     justify-content:space-evenly;
-    background-color:#0ca6c1;
+    background-color:#1e4203;
 }
 .box-image{
     height:300px;
@@ -178,7 +178,7 @@ footer{
     margin-top:15px;
 }
 .foot-panel1{
-    background-color:#007185;
+    background-color:#010a0b;
     color:white;
     height:50px;
     display:flex;
@@ -188,7 +188,7 @@ footer{
 }
 .foot-panel2{
     
-    background-color: rgb(148, 224, 230);
+    background-color:#b2c51e;
     height:230px;
     display:flex;
     justify-content:space-evenly;
@@ -204,7 +204,8 @@ ul{
     color:rgb(36, 35, 35);
 }
 .foot-panel3{
-    background-color: #0f1111;
+    background-color:#b2c51e;
+    
     border-top:1px solid white;
     height:70px;
     display:flex;
@@ -213,14 +214,13 @@ ul{
     
 }
 .logo1{
-    background-image:url(logo\ image.png);
-    background-size:cover;
-    
+    text-align: center;
     height:50px;
-    width:100px;
+    width:100%;
+    font-size: 24px;
 }
 .foot-panel4{
-    background-color:#0f1111;
+    background-color:#1e4203;
     
     height:80px;
     
